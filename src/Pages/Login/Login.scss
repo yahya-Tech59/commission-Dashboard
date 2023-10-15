@@ -1,0 +1,20 @@
+.login-container {
+  width: 1440px;
+  height: 824px;
+  display: flex;
+  background-color: #f5f5f5;
+
+  .login {
+    color: black;
+
+    .sys-name {
+      color: #6125c2;
+    }
+  }
+
+  .img {
+    width: 846px;
+    height: 824px;
+    margin-left: 560px;
+  }
+}
